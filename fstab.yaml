@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://ap123615-e2372591.adobeaemcloud.com/bin/franklin.delivery/digarg/vivo-poc/main"
+    url: "https://p123615-e2372591.adobeaemcloud.com/bin/franklin.delivery/digarg/vivo-poc/main"
     type: "markup"
     suffix: ".html"
